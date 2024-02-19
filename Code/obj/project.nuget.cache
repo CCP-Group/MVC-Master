@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+KVqp07F8lr2V9nOh41ONsRQ6hm7iYIhnBFiRJ7cm81dcTBFhXcwNE1/PMOlYOPuzFaleQAcdknU9FCIiIrJA==",
+  "success": true,
+  "projectFilePath": "d:\\GitHub\\MVC-Master\\MVC-Master.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peerachai.k\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
+    "C:\\Users\\peerachai.k\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\peerachai.k\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\peerachai.k\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\peerachai.k\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\peerachai.k\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
